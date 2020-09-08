@@ -1,0 +1,10 @@
+Documentation
+**************************
+.. toctree::
+   :maxdepth: 2
+
+   myrstfilenoneedextensionhere
+   note_the_tabs_and_spacings
+   and_also_the_empty_lines
+
+
